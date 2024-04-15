@@ -4,7 +4,7 @@
 
 Eddy Current Testing (ECT) is a way to test surface defects without destroying the material’s original structure. This GitHub project is designed to show the code for data processing and graphics presentation. Traditionally, only impedance against time graph could be drawn. In this project, impedance against distance is successfully achieved. Changing the x-axis from time to distance can help locate the defect more easily. The code of how this is realised is shown here.
 
-![Fig 1. Defect Sample with Defect Presentation from Software](ECT%20Scanner%20Data%20Processing%20and%20Graphics%20Presentat%20a58ef996bd994fe1b6b8ed074b784b31/defect_comparison.png)
+![Fig 1. Defect Sample with Defect Presentation from Software](images/defect_comparison.png)
 
 Fig 1. Defect Sample with Defect Presentation from Software
 
@@ -81,7 +81,7 @@ This version shows the scatter plot of the impedance against the distance diagra
 
 To run this program, double-click on the file named “Version 1 Initial Scatter Version.py”, and it should pop up the diagram the following:
 
-![Fig 2. *Version 1 Scatter Plot – real impedance against distance*](ECT%20Scanner%20Data%20Processing%20and%20Graphics%20Presentat%20a58ef996bd994fe1b6b8ed074b784b31/Untitled.png)
+![Fig 2. *Version 1 Scatter Plot – real impedance against distance*](images/Untitled.png)
 
 Fig 2. *Version 1 Scatter Plot – real impedance against distance*
 
@@ -91,7 +91,7 @@ To solve the previous problem of contrast between normal surface and defect, an 
 
 To run this program, double-click on the file named “Version 2 Advanced Scatter Version.py”, and it should pop up the diagram the following:
 
-![*Fig 3. Version 2 Scatter Plot with offset subtraction – real impedance against distance*](ECT%20Scanner%20Data%20Processing%20and%20Graphics%20Presentat%20a58ef996bd994fe1b6b8ed074b784b31/Untitled%201.png)
+![*Fig 3. Version 2 Scatter Plot with offset subtraction – real impedance against distance*](images/Untitled%201.png)
 
 *Fig 3. Version 2 Scatter Plot with offset subtraction – real impedance against distance*
 
@@ -101,7 +101,7 @@ To reduce the gaps between adjacent samples on the x-axis, the version 3 heatmap
 
 To run this program, double-click on the file named “Version 3 Heatmap Version” and it should pop up the diagram of the following:
 
-![Fig 4. *Version 3 Heatmap – real impedance against distance*](ECT%20Scanner%20Data%20Processing%20and%20Graphics%20Presentat%20a58ef996bd994fe1b6b8ed074b784b31/Untitled%202.png)
+![Fig 4. *Version 3 Heatmap – real impedance against distance*](images/Untitled%202.png)
 
 Fig 4. *Version 3 Heatmap – real impedance against distance*
 
