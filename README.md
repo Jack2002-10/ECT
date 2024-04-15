@@ -35,7 +35,7 @@ Several Python libraries need to be installed first to run programs smoothly. Th
 pip install matplotlib
 ```
 
-1. The installation process will begin. It may take a few minutes to install matplotlib, depending on your internet speed. Once the installation is complete, you should see a message that says, "Successfully installed matplotlib".
+3. The installation process will begin. It may take a few minutes to install matplotlib, depending on your internet speed. Once the installation is complete, you should see a message that says, "Successfully installed matplotlib".
 
 ### Installing seaborn on Windows:
 
@@ -46,7 +46,7 @@ pip install matplotlib
 pip install seaborn
 ```
 
-1. The installation process will begin. Depending on your internet speed, it may take a few minutes to install Seaborn. Once the installation is complete, you should see a message that says, "Successfully installed Seaborn.”
+3. The installation process will begin. Depending on your internet speed, it may take a few minutes to install Seaborn. Once the installation is complete, you should see a message that says, "Successfully installed Seaborn.”
 
 ### Installing pandas on Windows:
 
@@ -57,7 +57,7 @@ pip install seaborn
 pip install pandas
 ```
 
-1. The installation process will begin. Depending on your internet speed, it may take a few minutes to install pandas. Once the installation is complete, you should see a message saying, "Successfully installed pandas.”
+3. The installation process will begin. Depending on your internet speed, it may take a few minutes to install pandas. Once the installation is complete, you should see a message saying, "Successfully installed pandas.”
 
 Note: If you are using a Python version older than 3.4, `pip` might not be installed by default. In this case, you can install `pip` by downloading the `get-pip.py` file from the official pip website and running it with Python.
 
